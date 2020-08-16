@@ -2,7 +2,7 @@
 
 ## Details
 
-Small project made for 9th grade high school mentorship program similar to line following robots. Students were intereted in automation and robotics. As an alternative used Minecraft Pi Edition and asked students to implement a line following program in Minecraft.
+Quick project made for 9th grade high school mentorship program similar to line following robots. Students were interested in automation and robotics. As an alternative to common line following robot kits I used Minecraft Pi Edition and asked students to implement a line following program in Minecraft.
 
 * **flat-earth.py** - To clear out a space around the player in preparation for laying a track
 * **generate-track.py** - Generates the track to follow from a black and white image.  Tested with 128x128 jpeg image with 1 pixel black line
